@@ -60,3 +60,5 @@
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
 [![Gmail Badge](https://img.shields.io/badge/-eng.assis.dev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:https://mail.google.com/mail/u/1/#inbox)](https://mail.google.com/mail/u/1/#inbox)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+
+![snake gif](https://github.com/eryckassis/eryckassis/blob/output/github-contribution-grid-snake-dark.svg)
