@@ -6,7 +6,6 @@
 
 -  Explorando novas tecnologias e desenvolvendo soluções de software.
 -  Estudando **Engenharia de Software** na <a href="https://www.anhanguera.com/">Anhanguera</a>.
--  Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
 -  &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
 
 <h3>Minhas Skills</h3>
@@ -59,6 +58,6 @@
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
 [![Gmail Badge](https://img.shields.io/badge/-eng.assis.dev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:https://mail.google.com/mail/u/1/#inbox)](https://mail.google.com/mail/u/1/#inbox)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![GitHub](https://img.shields.io/github/followers/eryckassis?label=follow&style=social)](https://github.com/eryckassis)
 
 
