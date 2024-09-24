@@ -6,7 +6,7 @@
 
 -  Explorando novas tecnologias e desenvolvendo soluções de software.
 -  Estudando **Engenharia de Software** na <a href="https://www.anhanguera.com/">Anhanguera</a>.
--  &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
+-  &nbsp; Aprendendo mais sobre **Full Stack Back End e Front End**.
 
 <h3>Minhas Skills</h3>
 
