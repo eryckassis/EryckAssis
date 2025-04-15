@@ -1,56 +1,55 @@
+<!-- 👋 INTRODUÇÃO -->
+# ⚡ Hi There, I'm Eryck Assis ⚡
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
-
-<h3>Sobre mim</h3>
-
--  Explorando novas tecnologias e desenvolvendo soluções de software.
--  Estudando **Engenharia de Software** na <a href="https://www.anhanguera.com/">Anhanguera</a>.
--  &nbsp; Aprendendo mais sobre **Full Stack Back End e Front End**.
-
-<h3>Minhas Skills</h3>
-
-**Aplicações e dados**
-
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+<!-- 💼 SOBRE MIM -->
 
 
-**DevOps**
-
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
-**Ferramentas de desenvolvimento**
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
-
-<br/>
-
-<a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eryckassis&theme=dracula&show_icons=true" />
-</a>
-
-<a href="https://github.com/Gurupreet" title="ilustração do mapeamento de linguagens">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eryckassis&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
-</a>
-
-<h3>Onde me encontrar</h3>
-
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-eng.assis.dev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:https://mail.google.com/mail/u/1/#inbox)](https://mail.google.com/mail/u/1/#inbox)
-[![GitHub](https://img.shields.io/github/followers/eryckassis?label=follow&style=social)](https://github.com/eryckassis)
+- Software Engineering Student at the University of Anhanguera.  <!-- **[Projeto/Empresa Atual]** -->
+- Constant studies in programming, machine learning and data science.
+- Collaborating on Open Source Projects and Communities.
+- Obsession beats talent, always. 
 
 
+
+<!-- 🧰 TECNOLOGIAS & FERRAMENTAS -->
+ ## 🧰 Languages & Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
+
+<!-- Adicione ou remova conforme necessário -->
+
+
+
+<!-- 📈 GITHUB STATS -->
+##  GitHub Stats ⚡
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eryckassis&show_icons=true&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eryckassis&layout=compact&theme=midnight-purple)
+
+<!-- Substitua SEU_USUARIO pelo seu nome de usuário do GitHub -->
+
+
+
+<!-- 🌐 LINKS E CONTATO -->
+## 🌐 Onde me encontrar
+
+<div> 
+     	  
+  <a href = "mailto:eng.assis.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/eryck-assis-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
+<!-- Adicione mais links conforme quiser: Twitter, Dev.to, Medium, etc. -->
+
+
+
+<!-- 🖼️ BADGE DE VISITAS (opcional) -->
+
+<!-- Fim do README -->
