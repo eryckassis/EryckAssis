@@ -37,7 +37,7 @@
 
 
 <!-- 🌐 LINKS E CONTATO -->
-## 🌐 Where you Finde Me
+## 🌐 Where you Find Me
 
 <div> 
      	  
