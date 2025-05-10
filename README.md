@@ -13,6 +13,7 @@
 - Software Engineering Student at the University of Anhanguera.  <!-- **[Projeto/Empresa Atual]** -->
 - Constant studies in programming, machine learning and data science.
 - Collaborating on Open Source Projects and Communities.
+- CC50 — Harvard’s Computer Science Introduction Course.
 - Obsession beats talent, always. 
 
 
