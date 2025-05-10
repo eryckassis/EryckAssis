@@ -35,7 +35,7 @@
 ![QA](https://img.shields.io/badge/-QA-FF4081?style=flat&logo=selenium&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat&logo=python&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Full Stack](https://img.shields.io/badge/-Full%20Stack-563D7C?style=flat&logo=stack-overflow&logoColor=white)
+
 
 <!-- Adicione ou remova conforme necessário -->
 
