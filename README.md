@@ -50,11 +50,11 @@
 
 
 
-##  GitHub Stats ⚡
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=eryckassis&show_icons=true&theme=shadow_green)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eryckassis&layout=compact&theme=gotham)
+## Github Stats ⚡
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=eryckassis&show_icons=true&theme=shadow_green&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eryckassis&layout=compact&theme=gotham&cache_seconds=1800)
 
 
 ## 🌐 Where you Can Find Me
