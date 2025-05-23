@@ -53,8 +53,10 @@
 
 ## Github Stats ⚡
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=eryckassis&show_icons=true&title_color=00ffc8&icon_color=00ffc8&text_color=00ffc8&bg_color=0d1117&border_color=00ffc8&cache_seconds=1800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eryckassis&layout=compact&theme=gotham&cache_seconds=1800)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eryckassis&show_icons=true&title_color=00ffc8&icon_color=00ffc8&text_color=00ffc8&bg_color=0d1117&border_color=00ffc8&cache_seconds=1800" alt="GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eryckassis&layout=compact&theme=gotham&cache_seconds=1800" alt="Top Langs"/>
+</p>
 
 
 ## 🌐 Where you Can Find Me
