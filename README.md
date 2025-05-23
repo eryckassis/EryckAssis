@@ -52,8 +52,7 @@
 
 ##  GitHub Stats ⚡
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eryckassis&show_icons=true&title_color=00ffc8&icon_color=00ffc8&text_color=00ffc8&bg_color=0d1117&border_color=00ffc8)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eryckassis&theme=icons=truecolor=00ffc8&icon_color=00ffc8&text_color=00ffc8&bg_color=0d1117&border_color=00ffc8)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eryckassis&layout=compact&theme=midnight-purple)
 
 
