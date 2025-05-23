@@ -53,9 +53,9 @@
 
 ## Github Stats ⚡
 
-![eryckassis's Stats](https://github-readme-stats.vercel.app/api?username=eryckassis&theme=gotham&show_icons=true&hide_border=true&count_private=true)
-![eryckassis's Streak](https://github-readme-streak-stats.herokuapp.com/?user=eryckassis&theme=gotham&hide_border=true)
-![eryckassis's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eryckassis&theme=gotham&show_icons=true&hide_border=true&layout=compact)
+![eryckassis's Stats](https://github-readme-stats.vercel.app/api?username=eryckassis&theme=gotham&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800)
+![eryckassis's Streak](https://github-readme-streak-stats.herokuapp.com/?user=eryckassis&theme=gotham&hide_border=true&cache_seconds=1800)
+![eryckassis's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eryckassis&theme=gotham&show_icons=true&hide_border=true&layout=compact&cache_seconds=1800)
 
 ## 🌐 Where you Can Find Me
 
