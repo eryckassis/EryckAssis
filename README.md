@@ -53,7 +53,7 @@
 
 ## Github Stats ⚡
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=eryckassis&show_icons=true&theme=shadow_green&cache_seconds=1800)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=eryckassis&show_icons=true&title_color=00ffc8&icon_color=00ffc8&text_color=00ffc8&bg_color=0d1117&border_color=00ffc8&cache_seconds=1800)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eryckassis&layout=compact&theme=gotham&cache_seconds=1800)
 
 
