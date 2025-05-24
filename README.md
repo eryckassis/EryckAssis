@@ -24,43 +24,45 @@
 
  ## 🧰 Languages & Tools
  
-![Full Stack](https://img.shields.io/badge/-Full%20Stack-563D7C?style=flat&logo=stack-overflow&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![SOLID](https://img.shields.io/badge/-SOLID-FF4C2B?style=flat-square&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)
-![DevOps](https://img.shields.io/badge/-DevOps-0078D7?style=flat-square&logo=azurepipelines&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![NoSQL](https://img.shields.io/badge/-NoSQL-005571?style=flat&logo=mongodb&logoColor=white)
-![QA](https://img.shields.io/badge/-QA-FF4081?style=flat&logo=selenium&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat&logo=python&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Unix](https://img.shields.io/badge/-Unix-FCC624?style=flat-square&logo=unix&logoColor=black)
-
-
-
-
-
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack-000000?style=for-the-badge&logo=appveyor&logoColor=00ffc8&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=00ffc8&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=00ffc8&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=00ffc8&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=node.js&logoColor=00ffc8&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/SOLID-000000?style=for-the-badge&logo=checkmarx&logoColor=00ffc8&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/NESTJS-000000?style=for-the-badge&logo=nestjs&logoColor=00ffc8&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=00ffc8&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=00ffc8&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=00ffc8&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=00ffc8&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/DEVOPS-000000?style=for-the-badge&logo=dev.to&logoColor=00ffc8&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=00ffc8&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/NOSQL-000000?style=for-the-badge&logo=mongodb&logoColor=00ffc8&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/QA-000000?style=for-the-badge&logo=testing-library&logoColor=00ffc8&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/MACHINE%20LEARNING-000000?style=for-the-badge&logo=openai&logoColor=00ffc8&labelColor=000000"/> <!-- Machine Learning shield criativo usando o logo do OpenAI -->
+  <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=00ffc8&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/UNIX-000000?style=for-the-badge&logo=gnubash&logoColor=00ffc8&labelColor=000000"/>
+</p>
 
 
 
 ## Github Stats ⚡
 
-![eryckassis's Stats](https://github-readme-stats.vercel.app/api?username=eryckassis&theme=gotham&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800)
-![eryckassis's Streak](https://github-readme-streak-stats.herokuapp.com/?user=eryckassis&theme=gotham&hide_border=true&cache_seconds=1800)
-![eryckassis's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eryckassis&theme=gotham&show_icons=true&hide_border=true&layout=compact&cache_seconds=1800)
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eryckassis&show_icons=true&title_color=00ffc8&icon_color=00ffc8&text_color=00ffc8&bg_color=0d1117&border_color=00ffc8&hide_border=true&count_private=true&cache_seconds=1800" alt="Eryckassis's Stats"/>
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=eryckassis&theme=dark&ring=00ffc8&fire=00ffc8&currStreakLabel=00ffc8&hide_border=true&cache_seconds=1800" alt="Eryckassis's Streak"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eryckassis&layout=compact&title_color=00ffc8&text_color=00ffc8&bg_color=0d1117&border_color=00ffc8&hide_border=true&show_icons=true&cache_seconds=1800" alt="Eryckassis's Top Languages"/>
+</p>
 
 ## 🌐 Where you Can Find Me
 
-  <a href = "mailto:eng.assis.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/eryck-assis-" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="mailto:eng.assis.dev@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
+</a>
+<a href="https://www.linkedin.com/in/eryck-assis-" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
+</a>
   
 </div>
 
