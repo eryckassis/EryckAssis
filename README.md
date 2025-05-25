@@ -50,9 +50,9 @@
 ## Github Stats ⚡
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eryckassis&show_icons=true&title_color=00ffc8&icon_color=00ffc8&text_color=00ffc8&bg_color=0d1117&border_color=00ffc8&hide_border=true&count_private=true&cache_seconds=1800" alt="Eryckassis's Stats"/>
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=eryckassis&theme=dark&ring=00ffc8&fire=00ffc8&currStreakLabel=00ffc8&hide_border=true&cache_seconds=1800" alt="Eryckassis's Streak"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eryckassis&layout=compact&title_color=00ffc8&text_color=00ffc8&bg_color=0d1117&border_color=00ffc8&hide_border=true&show_icons=true&cache_seconds=1800" alt="Eryckassis's Top Languages"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eryckassis&show_icons=true&title_color=00ffff&icon_color=00ffff&text_color=00ffff&bg_color=000000&border_color=00ffff&hide_border=true&count_private=true&cache_seconds=1800" alt="Eryckassis's Stats"/>
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=eryckassis&theme=dark&ring=00ffff&fire=00ffff&currStreakLabel=00ffff&background=000000&hide_border=true&cache_seconds=1800" alt="Eryckassis's Streak"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eryckassis&layout=compact&title_color=00ffc8&text_color=00ffc8&bg_color=000000&border_color=00ffc8&hide_border=true&show_icons=true&cache_seconds=1800" alt="Eryckassis's Top Languages"/>
 </p>
 
 ## 🌐 Where you Can Find Me
