@@ -9,7 +9,6 @@
 
 
 
-
 - Software Engineering Student at the University of Anhanguera.  <!-- **[Projeto/Empresa Atual]** -->
 - Consistently studying programming, machine learning, and data science.
 - Collaborating on open source projects and within developer communities.
