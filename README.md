@@ -5,16 +5,28 @@
      	  
  ⚡ Hi there, I'm Eryck Assis ⚡
  <br>
+ 
+<br>
 
-
-
-
-- Software Engineering Student at the University of Anhanguera.  <!-- **[Projeto/Empresa Atual]** -->
-- Consistently studying programming, machine learning, and data science.
-- Collaborating on open source projects and within developer communities.
-- Completed CC50 — Harvard’s Computer Science course.
-- I believe obsession beats talent, always.
-
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>Software Engineering Student at the University of Anhanguera.</li>
+        <li>Consistently studying programming, machine learning, and data science.</li>
+        <li>Collaborating on open source projects and within developer communities.</li>
+        <li>Completed CC50 — Harvard’s Computer Science course.</li>
+        <li>I believe obsession beats talent, always.</li>
+      </ul>
+    </td>
+    <td width="140" align="right" valign="top">
+      <div align="center">
+        <img src="https://i.pinimg.com/736x/54/ef/03/54ef037b535e78a03c672faef2911a03.jpg" alt="Harvard Logo" width="120"/><br>
+        <sub>CC50 — Harvard</sub>
+      </div>
+    </td>
+  </tr>
+</table>
 
 
  ## 🧰 Languages & Tools
