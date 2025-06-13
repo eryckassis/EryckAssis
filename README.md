@@ -50,7 +50,6 @@
   <img src="https://img.shields.io/badge/UNIX-000000?style=for-the-badge&logo=gnubash&logoColor=00ffc8&labelColor=000000"/>
 </p>
 
-
 ## Github Stats ⚡
 
 <p align="center">
