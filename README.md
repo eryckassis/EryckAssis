@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=00ffc8&labelColor=000000"/>
   <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=00ffc8&labelColor=000000"/>
   <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=00ffc8&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/DEVOPS-000000?style=for-the-badge&logo=dev.to&logoColor=00ffc8&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/DEVOPS-000000?style=for-the-badge&logo=dev.to&logoColor=00ffc8&labelColor=000000"/> 
   <img src="https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=00ffc8&labelColor=000000"/>
   <img src="https://img.shields.io/badge/NOSQL-000000?style=for-the-badge&logo=mongodb&logoColor=00ffc8&labelColor=000000"/>
   <img src="https://img.shields.io/badge/QA-000000?style=for-the-badge&logo=testing-library&logoColor=00ffc8&labelColor=000000"/>
