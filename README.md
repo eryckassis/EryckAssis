@@ -7,7 +7,7 @@
 <br>
 
 <table>
-  <tr>
+  <tr> 
     <td>
       <ul>
         <li>Software Engineering Student at the University of Anhanguera.</li>
