@@ -47,7 +47,7 @@
   <img src="https://img.shields.io/badge/QA-000000?style=for-the-badge&logo=testing-library&logoColor=00ffc8&labelColor=000000"/>
   <img src="https://img.shields.io/badge/MACHINE%20LEARNING-000000?style=for-the-badge&logo=openai&logoColor=00ffc8&labelColor=000000"/> <!-- Machine Learning shield criativo usando o logo do OpenAI -->
   <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=00ffc8&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/UNIX-000000?style=for-the-badge&logo=gnubash&logoColor=00ffc8&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/UNIX-000000?style=for-the-badge&logo=gnubash&logoColor=00ffc8&labelColor=000000"/> 
 </p>
 
 ## Github Stats ⚡
