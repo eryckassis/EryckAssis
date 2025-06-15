@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=00ffc8&labelColor=000000"/>
   <img src="https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=node.js&logoColor=00ffc8&labelColor=000000"/>
   <img src="https://img.shields.io/badge/SOLID-000000?style=for-the-badge&logo=checkmarx&logoColor=00ffc8&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/NESTJS-000000?style=for-the-badge&logo=nestjs&logoColor=00ffc8&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/NESTJS-000000?style=for-the-badge&logo=nestjs&logoColor=00ffc8&labelColor=000000"/> 
   <img src="https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=00ffc8&labelColor=000000"/>
   <img src="https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=00ffc8&labelColor=000000"/>
   <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=00ffc8&labelColor=000000"/>
