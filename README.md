@@ -23,7 +23,7 @@
         <sub>CS50 — Harvard</sub>
       </div>
     </td> 
-  </tr>
+  </tr> 
 </table>
 
  
