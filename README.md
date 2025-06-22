@@ -14,7 +14,7 @@
         <li>Consistently studying programming, machine learning, and data science.</li>
         <li>Collaborating on open source projects and within developer communities.</li>
         <li>Completed CS50 — Harvard’s Computer Science course.</li>
-        <li>I believe obsession beats talent, always.</li>
+        <li>I believe obsession beats talent, always.</li> 
       </ul>
     </td>
     <td width="140" align="right" valign="top">
