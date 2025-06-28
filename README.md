@@ -58,7 +58,7 @@
  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eryckassis&layout=compact&title_color=00ffc8&text_color=00ffc8&bg_color=000000&border_color=00ffc8&hide_border=true&show_icons=true&cache_seconds=1800" alt="Eryckassis's Top Languages"/>
 </p>
   
-## 🌐 Where you Can Find Me
+## 🌐 Where you Can Find Me 
 
  <a href="mailto:eng.assis.dev@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
