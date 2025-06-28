@@ -57,7 +57,7 @@
   <img height="150em" src="https://streak-stats.demolab.com/?user=eryckassis&theme=dark&ring=00fff7&fire=00fff7&currStreakLabel=00fff7&background=000000&hide_border=true&dates=00fff7" alt="Eryckassis's Streak"/> 
  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eryckassis&layout=compact&title_color=00ffc8&text_color=00ffc8&bg_color=000000&border_color=00ffc8&hide_border=true&show_icons=true&cache_seconds=1800" alt="Eryckassis's Top Languages"/>
 </p>
-
+ 
 ## 🌐 Where you Can Find Me
 
  <a href="mailto:eng.assis.dev@gmail.com">
