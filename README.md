@@ -24,7 +24,7 @@
       </div> 
     </td>  
   </tr> 
-</table>
+</table> 
 
  
  ## 🧰 Languages & Tools 
