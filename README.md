@@ -9,7 +9,7 @@
 <table>   
   <tr> 
     <td>
-      <ul>
+      <ul> 
         <li>Software Engineering Student at the University of Anhanguera.</li> 
         <li>Consistently studying programming, machine learning, and data science.</li> 
         <li>Collaborating on open source projects and within developer communities.</li> 
