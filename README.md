@@ -22,7 +22,7 @@
         <img src="https://i.pinimg.com/736x/54/ef/03/54ef037b535e78a03c672faef2911a03.jpg" alt="Harvard Logo" width="120"/><br> 
         <sub>CS50 — Harvard</sub>
       </div> 
-    </td> 
+    </td>  
   </tr> 
 </table>
 
