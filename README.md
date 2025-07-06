@@ -27,7 +27,7 @@
 </table>
 
  
- ## 🧰 Languages & Tools
+ ## 🧰 Languages & Tools 
  
 <p align="center"> 
   <img src="https://img.shields.io/badge/Full%20Stack-000000?style=for-the-badge&logo=appveyor&logoColor=00ffc8&labelColor=000000"/>
