@@ -1,15 +1,21 @@
        
 <div> 
      	   
- ⚡ Hi there, I'm Eryck Assis ⚡
+ 
  <br>
-    
+  
+ 
+
+
 <br> 
    
-<table>   
+<table>
+       ⚡ Hi there, I'm Eryck Assis ⚡
+</table> 
   <tr> 
     <td>
       <ul> 
+             <img width="1406" height="558" alt="bumbum" src="https://github.com/user-attachments/assets/d4461cc7-cb99-4803-bb98-8e9e72e63ef6" />
         <li>Software Engineering Student at the University of Anhanguera.</li> 
         <li>Consistently studying programming, machine learning, and data science.</li> 
         <li>Collaborating on open source projects and within developer communities.</li> 
