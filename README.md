@@ -41,16 +41,13 @@
   <img src="https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=00ffc8&labelColor=000000"/>
   <img src="https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=00ffc8&labelColor=000000"/>
   <img src="https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=node.js&logoColor=00ffc8&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/SOLID-000000?style=for-the-badge&logo=checkmarx&logoColor=00ffc8&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/NESTJS-000000?style=for-the-badge&logo=nestjs&logoColor=00ffc8&labelColor=000000"/> 
-  <img src="https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=00ffc8&labelColor=000000"/> 
-  <img src="https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=00ffc8&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextjs&logoColor=00ffc8&labelColor=000000"/>
+       <img src="https://img.shields.io/badge/ANGULAR-000000?style=for-the-badge&logo=testing-library&logoColor=00ffc8&labelColor=000000"/>
   <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=00ffc8&labelColor=000000"/>
   <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=00ffc8&labelColor=000000"/>
   <img src="https://img.shields.io/badge/DEVOPS-000000?style=for-the-badge&logo=dev.to&logoColor=00ffc8&labelColor=000000"/> 
   <img src="https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=00ffc8&labelColor=000000"/> 
   <img src="https://img.shields.io/badge/NOSQL-000000?style=for-the-badge&logo=mongodb&logoColor=00ffc8&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/QA-000000?style=for-the-badge&logo=testing-library&logoColor=00ffc8&labelColor=000000"/>
   <img src="https://img.shields.io/badge/MACHINE%20LEARNING-000000?style=for-the-badge&logo=openai&logoColor=00ffc8&labelColor=000000"/> <!-- Machine Learning shield criativo usando o logo do OpenAI -->
   <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=00ffc8&labelColor=000000"/>
   <img src="https://img.shields.io/badge/UNIX-000000?style=for-the-badge&logo=gnubash&logoColor=00ffc8&labelColor=000000"/> 
