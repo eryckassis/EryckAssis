@@ -6,49 +6,29 @@
  <br> 
    
 <table>
-       ⚡ Hi there, I'm Eryck Assis ⚡
+       
 </table> 
   <tr> 
     <td>
       <ul> 
-             <img width="1406" height="558" alt="bumbum" src="https://github.com/user-attachments/assets/d4461cc7-cb99-4803-bb98-8e9e72e63ef6" />
-        <li>Software Engineering Student at the University of Anhanguera.</li> 
-        <li>Consistently studying programming, machine learning, and data science.</li> 
-        <li>Collaborating on open source projects and within developer communities.</li> 
-        <li>Completed CS50 — Harvard’s Computer Science course.</li>
-        <li>I believe obsession beats talent, always.</li> 
-      </ul>
-    </td>
-    <td width="140" align="right" valign="top">
-      <div align="center">
-        <img src="https://i.pinimg.com/736x/54/ef/03/54ef037b535e78a03c672faef2911a03.jpg" alt="Harvard Logo" width="120"/><br> 
-        <sub>CS50 — Harvard</sub>
-      </div> 
-    </td>  
+             <img width="1867" height="1046" alt="Black Grey Vintage Group Project Presentation" src="https://github.com/user-attachments/assets/d19436c5-999c-4796-9ab0-5436598f7467" />
+       
+      
   </tr> 
+</table> 
 </table> 
 
  ## 🧰 Languages & Tools 
  
 <p align="center"> 
-  <img src="https://img.shields.io/badge/Full%20Stack-000000?style=for-the-badge&logo=appveyor&logoColor=00ffc8&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=00ffc8&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=00ffc8&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=00ffc8&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=node.js&logoColor=00ffc8&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextjs&logoColor=00ffc8&labelColor=000000"/>
-       <img src="https://img.shields.io/badge/ANGULAR-000000?style=for-the-badge&logo=testing-library&logoColor=00ffc8&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=00ffc8&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=00ffc8&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/DEVOPS-000000?style=for-the-badge&logo=dev.to&logoColor=00ffc8&labelColor=000000"/> 
-  <img src="https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=00ffc8&labelColor=000000"/> 
-  <img src="https://img.shields.io/badge/NOSQL-000000?style=for-the-badge&logo=mongodb&logoColor=00ffc8&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/MACHINE%20LEARNING-000000?style=for-the-badge&logo=openai&logoColor=00ffc8&labelColor=000000"/> <!-- Machine Learning shield criativo usando o logo do OpenAI -->
-  <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=00ffc8&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/UNIX-000000?style=for-the-badge&logo=gnubash&logoColor=00ffc8&labelColor=000000"/> 
+ 
+<img width="1232" height="411" alt="Black Grey Vintage Group Project Presentation (2)" src="https://github.com/user-attachments/assets/3fea0652-43e5-4a43-8f39-119d3e098e12" />
+
 </p>
 
-## Github Stats ⚡
+<p align= "center">
+  ## Github Stats ⚡
+</p>
 
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eryckassis&show_icons=true&title_color=00ffff&icon_color=00ffff&text_color=00ffff&bg_color=000000&border_color=00ffff&hide_border=true&count_private=true&cache_seconds=18000" alt="Eryckassis's Stats"/>
