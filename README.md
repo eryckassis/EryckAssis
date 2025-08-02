@@ -12,7 +12,8 @@
     <td>
       <ul> 
              <img width="1867" height="1046" alt="Black Grey Vintage Group Project Presentation" src="https://github.com/user-attachments/assets/d19436c5-999c-4796-9ab0-5436598f7467" />
-       
+
+
       
   </tr> 
 </table> 
@@ -22,7 +23,7 @@
  
 <p align="center"> 
  
-<img width="1232" height="411" alt="Black Grey Vintage Group Project Presentation (2)" src="https://github.com/user-attachments/assets/3fea0652-43e5-4a43-8f39-119d3e098e12" />
+ <img width="1233" height="403" alt="Black Grey Vintage Group Project Presentation (3)" src="https://github.com/user-attachments/assets/c0e6cf6a-fc63-463a-bc27-078275c0f879" />
 
 </p>
 
