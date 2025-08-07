@@ -28,7 +28,7 @@
 </p>
 
 <p align= "center">
-  ## Github Stats ⚡
+
 </p>
 
 <p align="center">
