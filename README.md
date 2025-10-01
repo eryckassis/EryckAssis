@@ -7,14 +7,19 @@
       <img src="https://i.postimg.cc/qM66cgV4/fullstack-developer-3.png" alt="GIF 1" style="display: block; margin: 0 auto; border-radius:8px; max-width:100%;">
     </td>
   </tr>
-  <tr>
+   <tr>
     <td style="border: 3px solid #00ffc8; border-radius: 10px; padding: 8px; background: #111;">
-      <img src="https://i.postimg.cc/T1BWvLjC/Purple-and-Black-Gradient-Marketing-Presentation-6.gif" alt="GIF 2" style="display: block; margin: 0 auto; border-radius:8px; max-width:100%;">
+      <img src="https://i.postimg.cc/Pq7QLfwq/fullstack-developer-4.png" alt="GIF 1" style="display: block; margin: 0 auto; border-radius:8px; max-width:100%;">
     </td>
   </tr>
   <tr>
     <td style="border: 3px solid #00ffc8; border-radius: 10px; padding: 8px; background: #111;">
-      <img src="https://i.postimg.cc/hv2pLrBh/Purple-and-Black-Gradient-Marketing-Presentation-5.gif" alt="GIF 3" style="display: block; margin: 0 auto; border-radius:8px; max-width:100%;">
+      <img src="https://i.postimg.cc/SNrgVh9y/ansiedade-1.png" alt="GIF 2" style="display: block; margin: 0 auto; border-radius:8px; max-width:100%;">
+    </td>
+  </tr>
+  <tr>
+    <td style="border: 3px solid #00ffc8; border-radius: 10px; padding: 8px; background: #111;">
+      <img src="https://i.postimg.cc/3JKBkcc6/Purple-and-Black-Gradient-Marketing-Presentation.png" alt="GIF 3" style="display: block; margin: 0 auto; border-radius:8px; max-width:100%;">
     </td>
   </tr>
 </table>
