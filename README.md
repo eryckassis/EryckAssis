@@ -1,4 +1,4 @@
-<div align="center"> 
+<div align="center">  
 
 <!-- GIF Section Start -->
 <table align="center" width="100%" style="margin: 0 auto;">
