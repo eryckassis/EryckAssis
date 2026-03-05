@@ -1,10 +1,12 @@
 <div align="center">   
 
+
+
 <!-- GIF Section Start -->
 <table align="center" width="100%" style="margin: 0 auto;"> 
   <tr>
     <td style="border: 3px solid #00ffc8; border-radius: 10px; padding: 8px; background: #111;"> 
-      <img  src="https://i.postimg.cc/qM66cgV4/fullstack-developer-3.png" alt="GIF 1" style="display: block; margin: 0 auto; border-radius:8px; max-width:100%;">
+      <img  src="https://github.com/user-attachments/assets/ebbbf949-a599-41e6-8867-3a7ae903ad21" alt="GIF 1" style="display: block; margin: 0 auto; border-radius:8px; max-width:100%;">
     </td>
   </tr>    
    <tr>
