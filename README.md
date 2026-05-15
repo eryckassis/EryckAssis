@@ -25,7 +25,7 @@
     </td>
   </tr>
 </table>
-<!-- GIF Section End -->
+
 
 <br>
 
