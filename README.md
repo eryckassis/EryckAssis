@@ -1,4 +1,6 @@
 
+
+
 <div align="center">   
 
 
@@ -10,17 +12,17 @@
   </tr>    
    <tr>
     <td style="border: 3px solid #00ffc8; border-radius: 10px; padding: 8px; background: #111;">
-      <img src="https://i.postimg.cc/Pq7QLfwq/fullstack-developer-4.png" alt="GIF 1" style="display: block; margin: 0 auto; border-radius:8px; max-width:100%;">
+      <img src="https://github.com/user-attachments/assets/dde9ec5f-48b7-4b65-a9fc-4696a34d80f4" alt="GIF 1" style="display: block; margin: 0 auto; border-radius:8px; max-width:100%;">
     </td>
   </tr>
   <tr>
     <td style="border: 3px solid #00ffc8; border-radius: 10px; padding: 8px; background: #111;">
-      <img src="https://i.postimg.cc/SNrgVh9y/ansiedade-1.png" alt="GIF 2" style="display: block; margin: 0 auto; border-radius:8px; max-width:100%;">
+      <img src="https://github.com/user-attachments/assets/32b14d14-e3ae-4d9e-ab48-008365a86893" alt="GIF 2" style="display: block; margin: 0 auto; border-radius:8px; max-width:100%;">
     </td>
   </tr>
   <tr>
     <td style="border: 3px solid #00ffc8; border-radius: 10px; padding: 8px; background: #111;">
-      <img src="https://i.postimg.cc/3JKBkcc6/Purple-and-Black-Gradient-Marketing-Presentation.png" alt="GIF 3" style="display: block; margin: 0 auto; border-radius:8px; max-width:100%;">
+      <img src="https://github.com/user-attachments/assets/5ae8adb0-395a-406a-a63f-0161063f63c9" alt="GIF 3" style="display: block; margin: 0 auto; border-radius:8px; max-width:100%;">
     </td>
   </tr>
 </table>
