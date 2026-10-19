@@ -3,6 +3,9 @@
 
 
 
+
+
+
 <div align="center">   
 
 
@@ -13,18 +16,18 @@
     </td>
   </tr>    
    <tr>
-    <td style="border: 3px solid #00ffc8; border-radius: 10px; padding: 8px; background: #111;">
-      <img src="https://github.com/user-attachments/assets/dde9ec5f-48b7-4b65-a9fc-4696a34d80f4" alt="GIF 1" style="display: block; margin: 0 auto; border-radius:8px; max-width:100%;">
+    <td style="border: 3px solid #00ffc8; border-radius: 10px; padding: 8px; background: #ffffff;">
+      <img src="https://github.com/user-attachments/assets/1ac3ac51-0eb8-4689-a0f2-2dfb495c0812" alt="GIF 1" style="display: block; margin: 0 auto; border-radius:8px; max-width:100%;">
     </td>
   </tr>
   <tr>
     <td style="border: 3px solid #00ffc8; border-radius: 10px; padding: 8px; background: #111;">
-      <img src="https://github.com/user-attachments/assets/32b14d14-e3ae-4d9e-ab48-008365a86893" alt="GIF 2" style="display: block; margin: 0 auto; border-radius:8px; max-width:100%;">
+      <img src="https://github.com/user-attachments/assets/ff6bbd46-5365-4aac-b285-de8f5bc9fdc9" alt="GIF 2" style="display: block; margin: 0 auto; border-radius:8px; max-width:100%;">
     </td>
   </tr>
   <tr>
     <td style="border: 3px solid #00ffc8; border-radius: 10px; padding: 8px; background: #111;">
-      <img src="https://github.com/user-attachments/assets/5ae8adb0-395a-406a-a63f-0161063f63c9" alt="GIF 3" style="display: block; margin: 0 auto; border-radius:8px; max-width:100%;">
+      <img src="https://github.com/user-attachments/assets/70328ed5-3fbf-43c8-b0ef-179f17a8d155" alt="GIF 3" style="display: block; margin: 0 auto; border-radius:8px; max-width:100%;">
     </td>
   </tr>
 </table>
